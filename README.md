@@ -24,7 +24,7 @@ The goal of this project is to create an end-to-end prediction model of churn us
 2. Perform Exploratory data analysis and thoroughly analyze the data to come up with the best set of features that can be used to train a predictive model
 3. Train and measure models that can predict if a user is is lilely to churn or not by using Apache Spark Machine Learning libraries.
 4. Select the best models and improve the models to get higher results
-5. Present the results in a report in Medium blog post([this post](https://xxxxx)) of the end-to-end process to build an ML model in Apache Spark Machine Learning.
+5. Present the results in a report in Medium blog post([this post](https://lgreddy-sbn.medium.com/predicting-churn-using-spark-machine-learning-library-a9b9a1070b0a)) of the end-to-end process to build an ML model in Apache Spark Machine Learning.
 
 ## 3. Metrics
 1. **F-1 score** (also F-score or F-measure) is a measure of a test's accuracy. It considers both the precision p and recall r of the test to compute the score. This traditional F-measure or balanced F-score is the harmonic mean of precision and recall. F-1 = 2 x (precision x recall) / (precision + recall)
@@ -45,6 +45,7 @@ The project is run in Apache Spark environment. Refer to [Apache Spark](https://
 ## 5. Files <a name="Files"></a>
 <pre>
 - datasources
+|- sample_sparkify_event_data.json
 - notebooks
 |- Sparkify.ipynb
 |- Sparkify.html
@@ -53,7 +54,7 @@ The project is run in Apache Spark environment. Refer to [Apache Spark](https://
 
 ## 6. Results and Report <a name="Results&Report"></a>
 The final churn prediction model gets the F-1 score of 74% and Accuracy of 74%.
-The report of the this project is presented in this blog post [Churn Prediction with Apache Spark Machine Learning](https://medium.com/xxxxx).
+The report of the this project is presented in this blog post [Churn Prediction with Apache Spark Machine Learning](https://lgreddy-sbn.medium.com/predicting-churn-using-spark-machine-learning-library-a9b9a1070b0a).
 
 ## 7. References <a name="References"></a>
 1. [PySpark](http://spark.apache.org/docs/latest/api/python/)
