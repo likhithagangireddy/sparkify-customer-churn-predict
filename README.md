@@ -21,7 +21,7 @@ The model is capable of predict which users is likely to churn the music applica
 ## 2. Key Steps <a name="Keysteps"></a>
 The goal of this project is to create an end-to-end prediction model of churn users of the Sparkify music application; the tasks involved are the following:
 1. Preprocessing (load, clean, and transform) the raw dataset in json format with PySpark
-2. PErform Exploratory data analysis and thoroughly analyze the data to come up with the best set of features that can be used to train a predictive model
+2. Perform Exploratory data analysis and thoroughly analyze the data to come up with the best set of features that can be used to train a predictive model
 3. Train and measure models that can predict if a user is is lilely to churn or not by using Apache Spark Machine Learning libraries.
 4. Select the best models and improve the models to get higher results
 5. Present the results in a report in Medium blog post([this post](https://xxxxx)) of the end-to-end process to build an ML model in Apache Spark Machine Learning.
@@ -56,5 +56,7 @@ The final churn prediction model gets the F-1 score of 74% and Accuracy of 74%.
 The report of the this project is presented in this blog post [Churn Prediction with Apache Spark Machine Learning](https://medium.com/xxxxx).
 
 ## 7. References <a name="References"></a>
-1. [Apache Spark](http://spark.apache.org/docs/latest/api/python/)
+1. [PySpark](http://spark.apache.org/docs/latest/api/python/)
 2. Datasets provided by [Udacity](https://www.udacity.com)
+3. [Apache Spark Machine Learning library](https://spark.apache.org/mllib/)
+4. [Customer churn using ML](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
