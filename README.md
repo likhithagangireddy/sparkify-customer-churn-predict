@@ -56,6 +56,5 @@ The final churn prediction model gets the F-1 score of 74% and Accuracy of 74%.
 The report of the this project is presented in this blog post [Churn Prediction with Apache Spark Machine Learning](https://medium.com/xxxxx).
 
 ## 7. References <a name="References"></a>
-1. [Apache Spark](https://spark.apache.org/docs/latest/api/python/pyspark.sql.html)
-2. The Data Scientist Guide to Apache Spark, databricks
-3. Datasets provided by [Udacity](https://www.udacity.com)
+1. [Apache Spark](http://spark.apache.org/docs/latest/api/python/)
+2. Datasets provided by [Udacity](https://www.udacity.com)
