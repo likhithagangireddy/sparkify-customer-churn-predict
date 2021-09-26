@@ -53,8 +53,8 @@ The project is run in Apache Spark environment. Refer to [Apache Spark](https://
 </pre>
 
 ## 6. Results and Report <a name="Results&Report"></a>
-The final churn prediction model gets the F-1 score of 74% and Accuracy of 74%.
-The report of the this project is presented in this blog post [Churn Prediction with Apache Spark Machine Learning](https://lgreddy-sbn.medium.com/predicting-churn-using-spark-machine-learning-library-a9b9a1070b0a).
+The final churn prediction model gets the F-1 score of 75% and Accuracy of 76%.
+The report of this project is presented in this blog post [Churn Prediction with Apache Spark Machine Learning](https://lgreddy-sbn.medium.com/predicting-churn-using-spark-machine-learning-library-a9b9a1070b0a).
 
 ## 7. References <a name="References"></a>
 1. [PySpark](http://spark.apache.org/docs/latest/api/python/)
